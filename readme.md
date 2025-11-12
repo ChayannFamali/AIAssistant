@@ -211,6 +211,14 @@ python main.py
 ## Кроссплатформенность
 - Поддержка Linux и macOS
 
+## Демонстрация
+
+### Пример работы
+<img src="docs/images/example.png" width="800" alt="Пример работы">
+
+### Главное окно
+<img src="docs/images/main-window.png" width="800" alt="Главное окно">
+
 ## Лицензия
 
 MIT License
